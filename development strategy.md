@@ -22,7 +22,12 @@ Create html, css, javascript.... etc files
 
 ### step 4
 #### Create user story
+
 ##### HTML and CSS(Feruz)
+0. Create branch
+1. (HTML) create section tag and inside it create free div tag for the list of names
+2. (CSS) style background, section, div ....etc. 
+3. Push(Github account)
 
 ##### javascript(boam)
 
