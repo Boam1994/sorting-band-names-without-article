@@ -10,5 +10,5 @@ That means article (a, an, the ) not affect sorting of the names.
 3. a lemon
 4. an orange
 
-![]( =250x250)
+![](Screenshot 2020-03-17 at 23.37.51.png =250x250)
 
