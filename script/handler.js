@@ -2,5 +2,7 @@ const bands = ['The band', 'An old man', 'counterparts', 'Anywhere but here', 'T
 
 function strip(bandName){
     return bandName.replace(a,the ,an).trim();
-    console.log();
+    
 }
+
+const sortedBands = bands.sort((a, b) => strip(a) > strip(b) ? 1 : -1) 
