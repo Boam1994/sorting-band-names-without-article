@@ -30,6 +30,10 @@ Create html, css, javascript.... etc files
 3. Push(Github account)
 
 ##### javascript(boam)
+0. Create script files handler & listener
+1. set a variable const bands
+2. get the id of html to modify in js
+3.
 
 
 
