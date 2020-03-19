@@ -1,9 +1,4 @@
-const bands = [ "An Orange",
-              "A banana",
-                "Pear",
-                "The strewberry",
-               " An apple",
-               "The blueberry"];
+const bands = ['Anywhere but here','The Midway state','The band','The bled','counterparts','An old man']
 
 function strip(bandName){
     return bandName.replace(/^(a |the |an )/i,'').trim();
